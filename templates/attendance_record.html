@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}Attendance Records{% endblock %}
+{% block content %}
+<h1>Attendance Records</h1>
+<div class="record-grid">
+    <div class="record-column">
+        <h2>Students</h2>
+        <ul>
+            {% for student in students %}
+            <li style="color: white;">{{ student.name }} </li>
+            {% endfor %}
+        </ul>
+    </div>
+   
+    <div class="record-column">
+        <h2>Absent</h2>
+        <ul>
+            {% for student in absent_students %}
+            <li style="color: white;">{{ student.name }}-{{ student.status }}</li>
+            
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="record-column">
+        <h2>Present</h2>
+        <ul>
+            {% for student in present_students %}
+            <li style="color: white;">{{ student.name }} - {{ student.status }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endblock %}
+

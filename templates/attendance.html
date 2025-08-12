@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}Attendance{% endblock %}
+{% block content %}
+<h1>Mark Attendance</h1>
+<form method="POST">
+        <table>
+        <tr>
+            <th>Name</th>
+            <th>Roll No</th>
+            <th>Status</th>
+        </tr>
+        {% for student in students %}
+        <tr>
+            <td>{{ student.name }}</td>
+            <td>{{ student.roll_no }}</td>
+            <td>
+                <label>
+                    <input type="radio" name="status_{{ student.roll_no }}" value="Present" required> Present
+                </label>
+                <label>
+                    <input type="radio" name="status_{{ student.roll_no }}" value="Absent"> Absent
+                </label>
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+    <br>
+        {% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+    {% for category, message in messages %}
+      <div class="alert alert-{{ category }}">
+        {{ message }}
+      </div>
+    {% endfor %}
+  {% endif %}
+{% endwith %}
+    </>
+    <button type="submit">Submit Attendance</button>
+</form>
+{% endblock %}

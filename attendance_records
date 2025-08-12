@@ -1,0 +1,16 @@
+[
+    [
+        {
+            "name": "Aditya",
+            "roll_no": 21,
+            "class": "12",
+            "status": "Present"
+        },
+        {
+            "name": "kamal ",
+            "roll_no": 23,
+            "class": "12",
+            "status": "Absent"
+        }
+    ]
+]

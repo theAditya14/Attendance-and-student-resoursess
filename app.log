@@ -1,0 +1,698 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug: * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug: * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug: * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug: * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug: * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug: * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:55:34] "GET /attendance HTTP/1.1" 200 -
+ERROR:root:Error saving attendance: Expecting value: line 1 column 1 (char 0)
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:55:39] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:55:39] "GET /attendance HTTP/1.1" 200 -
+ERROR:root:Error saving attendance: Expecting value: line 1 column 1 (char 0)
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:55:41] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:55:41] "GET /attendance HTTP/1.1" 200 -
+ERROR:root:Error saving attendance: Expecting value: line 1 column 1 (char 0)
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:55:42] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:55:42] "GET /attendance HTTP/1.1" 200 -
+ERROR:root:Error saving attendance: Expecting value: line 1 column 1 (char 0)
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:55:42] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:55:42] "GET /attendance HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:57:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:57:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:root:Error reading attendance record: Expecting value: line 1 column 1 (char 0)
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:57:38] "GET /attendance_record HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:57:42] "GET /attendance HTTP/1.1" 200 -
+ERROR:root:Error saving attendance: Expecting value: line 1 column 1 (char 0)
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:57:46] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:57:46] "GET /attendance HTTP/1.1" 200 -
+ERROR:root:Error reading attendance record: Expecting value: line 1 column 1 (char 0)
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:57:59] "GET /attendance_record HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Aug/2025 18:58:10] "GET /registration HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug: * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug: * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 126-074-466
+INFO:werkzeug: * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+2025-08-04 19:07:07,792 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:07:07,792 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:07:07,794 [INFO]  * Restarting with stat
+2025-08-04 19:07:08,170 [WARNING]  * Debugger is active!
+2025-08-04 19:07:08,173 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:07:13,196 [INFO] 127.0.0.1 - - [04/Aug/2025 19:07:13] "GET / HTTP/1.1" 200 -
+2025-08-04 19:07:13,363 [INFO] 127.0.0.1 - - [04/Aug/2025 19:07:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-04 19:07:15,180 [ERROR] Error reading attendance record: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:07:15,187 [INFO] 127.0.0.1 - - [04/Aug/2025 19:07:15] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:07:18,622 [INFO] 127.0.0.1 - - [04/Aug/2025 19:07:18] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:07:25,695 [ERROR] Error saving attendance: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:07:25,696 [INFO] 127.0.0.1 - - [04/Aug/2025 19:07:25] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:07:25,702 [INFO] 127.0.0.1 - - [04/Aug/2025 19:07:25] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:07:28,824 [ERROR] Error reading attendance record: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:07:28,825 [INFO] 127.0.0.1 - - [04/Aug/2025 19:07:28] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:08:00,771 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:08:00,772 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:08:00,775 [INFO]  * Restarting with stat
+2025-08-04 19:08:01,257 [WARNING]  * Debugger is active!
+2025-08-04 19:08:01,261 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:08:11,404 [INFO] 127.0.0.1 - - [04/Aug/2025 19:08:11] "GET / HTTP/1.1" 200 -
+2025-08-04 19:08:11,629 [INFO] 127.0.0.1 - - [04/Aug/2025 19:08:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-04 19:08:14,230 [ERROR] Error reading attendance record: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:08:14,234 [INFO] 127.0.0.1 - - [04/Aug/2025 19:08:14] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:08:18,093 [INFO] 127.0.0.1 - - [04/Aug/2025 19:08:18] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:08:21,498 [ERROR] Error saving attendance: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:08:21,499 [INFO] 127.0.0.1 - - [04/Aug/2025 19:08:21] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:08:21,510 [INFO] 127.0.0.1 - - [04/Aug/2025 19:08:21] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:11:53,152 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:11:53,153 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:11:53,155 [INFO]  * Restarting with stat
+2025-08-04 19:11:53,555 [WARNING]  * Debugger is active!
+2025-08-04 19:11:53,558 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:11:56,455 [INFO] 127.0.0.1 - - [04/Aug/2025 19:11:56] "GET / HTTP/1.1" 200 -
+2025-08-04 19:12:00,019 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:00] "GET /registration HTTP/1.1" 200 -
+2025-08-04 19:12:09,647 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:09] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-04 19:12:09,673 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:09] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:12:16,877 [ERROR] Error saving attendance: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:12:16,878 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:16] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:12:16,885 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:16] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:12:34,433 [ERROR] Error saving attendance: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:12:34,434 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:34] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:12:34,442 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:34] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:12:35,318 [ERROR] Error saving attendance: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:12:35,320 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:35] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:12:35,327 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:35] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:12:35,654 [ERROR] Error saving attendance: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:12:35,655 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:35] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:12:35,662 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:35] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:12:35,934 [ERROR] Error saving attendance: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:12:35,935 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:35] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:12:35,942 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:35] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:12:36,965 [ERROR] Error reading attendance record: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:12:36,970 [INFO] 127.0.0.1 - - [04/Aug/2025 19:12:36] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:13:36,876 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:13:36,877 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:13:36,879 [INFO]  * Restarting with stat
+2025-08-04 19:13:37,277 [WARNING]  * Debugger is active!
+2025-08-04 19:13:37,280 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:14:48,053 [INFO]  * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+2025-08-04 19:14:48,093 [INFO]  * Restarting with stat
+2025-08-04 19:14:48,488 [WARNING]  * Debugger is active!
+2025-08-04 19:14:48,491 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:15:41,105 [INFO]  * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+2025-08-04 19:15:41,143 [INFO]  * Restarting with stat
+2025-08-04 19:15:41,518 [WARNING]  * Debugger is active!
+2025-08-04 19:15:41,521 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:16:26,887 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:16:26,888 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:16:26,889 [INFO]  * Restarting with stat
+2025-08-04 19:16:27,269 [WARNING]  * Debugger is active!
+2025-08-04 19:16:27,272 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:16:29,982 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:29] "GET / HTTP/1.1" 200 -
+2025-08-04 19:16:30,132 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-04 19:16:31,807 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:31] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:16:37,806 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:37] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:16:37,816 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:37] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:16:43,151 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:43] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:16:52,186 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:52] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:16:53,888 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:53] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:16:53,894 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:53] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:16:55,553 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:55] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:16:55,558 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:55] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:16:55,742 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:55] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:16:55,747 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:55] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:16:56,058 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:56] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:16:56,063 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:56] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:16:56,260 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:56] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:16:56,266 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:56] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:16:56,455 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:56] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:16:56,460 [INFO] 127.0.0.1 - - [04/Aug/2025 19:16:56] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:21:39,941 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:21:39,942 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:21:39,943 [INFO]  * Restarting with stat
+2025-08-04 19:21:40,339 [WARNING]  * Debugger is active!
+2025-08-04 19:21:40,342 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:21:42,954 [INFO] 127.0.0.1 - - [04/Aug/2025 19:21:42] "GET / HTTP/1.1" 200 -
+2025-08-04 19:21:44,644 [INFO] 127.0.0.1 - - [04/Aug/2025 19:21:44] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:21:50,524 [INFO] 127.0.0.1 - - [04/Aug/2025 19:21:50] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2025-08-04 19:21:54,814 [INFO] 127.0.0.1 - - [04/Aug/2025 19:21:54] "GET / HTTP/1.1" 200 -
+2025-08-04 19:21:56,901 [INFO] 127.0.0.1 - - [04/Aug/2025 19:21:56] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:22:10,527 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:22:10,528 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:22:10,529 [INFO]  * Restarting with stat
+2025-08-04 19:22:10,901 [WARNING]  * Debugger is active!
+2025-08-04 19:22:10,904 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:22:13,835 [INFO] 127.0.0.1 - - [04/Aug/2025 19:22:13] "GET / HTTP/1.1" 200 -
+2025-08-04 19:22:14,996 [INFO] 127.0.0.1 - - [04/Aug/2025 19:22:14] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:22:19,136 [ERROR] Error saving attendance: Expecting value: line 1 column 1 (char 0)
+2025-08-04 19:22:19,136 [INFO] 127.0.0.1 - - [04/Aug/2025 19:22:19] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:22:19,146 [INFO] 127.0.0.1 - - [04/Aug/2025 19:22:19] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:22:36,131 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:22:36,131 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:22:36,135 [INFO]  * Restarting with stat
+2025-08-04 19:22:36,597 [WARNING]  * Debugger is active!
+2025-08-04 19:22:36,600 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:22:39,494 [INFO] 127.0.0.1 - - [04/Aug/2025 19:22:39] "GET / HTTP/1.1" 200 -
+2025-08-04 19:22:46,133 [INFO] 127.0.0.1 - - [04/Aug/2025 19:22:46] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:22:52,447 [INFO] 127.0.0.1 - - [04/Aug/2025 19:22:52] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:22:52,457 [INFO] 127.0.0.1 - - [04/Aug/2025 19:22:52] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:22:54,459 [INFO] 127.0.0.1 - - [04/Aug/2025 19:22:54] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:25:29,730 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:25:29,730 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:25:29,732 [INFO]  * Restarting with stat
+2025-08-04 19:25:30,117 [WARNING]  * Debugger is active!
+2025-08-04 19:25:30,121 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:25:33,179 [INFO] 127.0.0.1 - - [04/Aug/2025 19:25:33] "GET / HTTP/1.1" 200 -
+2025-08-04 19:25:34,915 [INFO] 127.0.0.1 - - [04/Aug/2025 19:25:34] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:25:38,534 [INFO] 127.0.0.1 - - [04/Aug/2025 19:25:38] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:25:42,414 [INFO] 127.0.0.1 - - [04/Aug/2025 19:25:42] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:25:42,422 [INFO] 127.0.0.1 - - [04/Aug/2025 19:25:42] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:25:45,405 [INFO] 127.0.0.1 - - [04/Aug/2025 19:25:45] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:25:45,410 [INFO] 127.0.0.1 - - [04/Aug/2025 19:25:45] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:25:46,599 [INFO] 127.0.0.1 - - [04/Aug/2025 19:25:46] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:29:16,061 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:29:16,061 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:29:16,063 [INFO]  * Restarting with stat
+2025-08-04 19:29:16,431 [WARNING]  * Debugger is active!
+2025-08-04 19:29:16,435 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:29:18,237 [INFO] 127.0.0.1 - - [04/Aug/2025 19:29:18] "GET / HTTP/1.1" 200 -
+2025-08-04 19:29:18,422 [INFO] 127.0.0.1 - - [04/Aug/2025 19:29:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-04 19:29:20,094 [INFO] 127.0.0.1 - - [04/Aug/2025 19:29:20] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:29:22,775 [INFO] 127.0.0.1 - - [04/Aug/2025 19:29:22] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:29:29,535 [INFO] 127.0.0.1 - - [04/Aug/2025 19:29:29] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:29:30,148 [INFO] 127.0.0.1 - - [04/Aug/2025 19:29:30] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2025-08-04 19:29:38,922 [INFO] 127.0.0.1 - - [04/Aug/2025 19:29:38] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:29:40,874 [INFO] 127.0.0.1 - - [04/Aug/2025 19:29:40] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:34:34,406 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:34:34,407 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:34:34,409 [INFO]  * Restarting with stat
+2025-08-04 19:34:34,840 [WARNING]  * Debugger is active!
+2025-08-04 19:34:34,843 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:34:40,084 [INFO] 127.0.0.1 - - [04/Aug/2025 19:34:40] "GET / HTTP/1.1" 200 -
+2025-08-04 19:34:40,238 [INFO] 127.0.0.1 - - [04/Aug/2025 19:34:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-04 19:34:43,167 [INFO] 127.0.0.1 - - [04/Aug/2025 19:34:43] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:34:47,233 [INFO] 127.0.0.1 - - [04/Aug/2025 19:34:47] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:35:25,884 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:35:25,885 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:35:25,887 [INFO]  * Restarting with stat
+2025-08-04 19:35:26,278 [WARNING]  * Debugger is active!
+2025-08-04 19:35:26,281 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:35:28,389 [INFO] 127.0.0.1 - - [04/Aug/2025 19:35:28] "GET / HTTP/1.1" 200 -
+2025-08-04 19:35:28,614 [INFO] 127.0.0.1 - - [04/Aug/2025 19:35:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-04 19:35:29,851 [INFO] 127.0.0.1 - - [04/Aug/2025 19:35:29] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:35:37,608 [INFO] 127.0.0.1 - - [04/Aug/2025 19:35:37] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:35:37,616 [INFO] 127.0.0.1 - - [04/Aug/2025 19:35:37] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:35:40,678 [INFO] 127.0.0.1 - - [04/Aug/2025 19:35:40] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:37:26,732 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:37:26,733 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:37:26,735 [INFO]  * Restarting with stat
+2025-08-04 19:37:27,115 [WARNING]  * Debugger is active!
+2025-08-04 19:37:27,118 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:37:29,009 [INFO] 127.0.0.1 - - [04/Aug/2025 19:37:29] "GET / HTTP/1.1" 200 -
+2025-08-04 19:37:31,086 [INFO] 127.0.0.1 - - [04/Aug/2025 19:37:31] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:37:34,349 [INFO] 127.0.0.1 - - [04/Aug/2025 19:37:34] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:37:41,517 [INFO] 127.0.0.1 - - [04/Aug/2025 19:37:41] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:37:41,523 [INFO] 127.0.0.1 - - [04/Aug/2025 19:37:41] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:37:44,860 [INFO] 127.0.0.1 - - [04/Aug/2025 19:37:44] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:47:09,821 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:47:09,821 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:47:09,823 [INFO]  * Restarting with stat
+2025-08-04 19:47:10,249 [WARNING]  * Debugger is active!
+2025-08-04 19:47:10,252 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:47:17,352 [INFO] 127.0.0.1 - - [04/Aug/2025 19:47:17] "GET / HTTP/1.1" 200 -
+2025-08-04 19:47:19,097 [INFO] 127.0.0.1 - - [04/Aug/2025 19:47:19] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:47:25,672 [INFO] 127.0.0.1 - - [04/Aug/2025 19:47:25] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:47:32,148 [INFO] 127.0.0.1 - - [04/Aug/2025 19:47:32] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:47:32,157 [INFO] 127.0.0.1 - - [04/Aug/2025 19:47:32] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:47:33,542 [INFO] 127.0.0.1 - - [04/Aug/2025 19:47:33] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:50:58,590 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:50:58,590 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:50:58,592 [INFO]  * Restarting with stat
+2025-08-04 19:50:58,995 [WARNING]  * Debugger is active!
+2025-08-04 19:50:58,998 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:51:01,797 [INFO] 127.0.0.1 - - [04/Aug/2025 19:51:01] "GET / HTTP/1.1" 200 -
+2025-08-04 19:51:01,958 [INFO] 127.0.0.1 - - [04/Aug/2025 19:51:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-04 19:51:03,456 [INFO] 127.0.0.1 - - [04/Aug/2025 19:51:03] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:51:35,028 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:51:35,028 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:51:35,030 [INFO]  * Restarting with stat
+2025-08-04 19:51:35,425 [WARNING]  * Debugger is active!
+2025-08-04 19:51:35,429 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:51:37,813 [INFO] 127.0.0.1 - - [04/Aug/2025 19:51:37] "GET / HTTP/1.1" 200 -
+2025-08-04 19:51:39,505 [INFO] 127.0.0.1 - - [04/Aug/2025 19:51:39] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:51:40,964 [INFO] 127.0.0.1 - - [04/Aug/2025 19:51:40] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:51:46,223 [INFO] 127.0.0.1 - - [04/Aug/2025 19:51:46] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:51:46,230 [INFO] 127.0.0.1 - - [04/Aug/2025 19:51:46] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:51:48,102 [INFO] 127.0.0.1 - - [04/Aug/2025 19:51:48] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:55:16,421 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:55:16,421 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:55:16,422 [INFO]  * Restarting with stat
+2025-08-04 19:55:16,803 [WARNING]  * Debugger is active!
+2025-08-04 19:55:16,806 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:55:18,638 [INFO] 127.0.0.1 - - [04/Aug/2025 19:55:18] "GET / HTTP/1.1" 200 -
+2025-08-04 19:55:21,063 [INFO] 127.0.0.1 - - [04/Aug/2025 19:55:21] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:55:23,203 [INFO] 127.0.0.1 - - [04/Aug/2025 19:55:23] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:55:50,112 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:55:50,112 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:55:50,117 [INFO]  * Restarting with stat
+2025-08-04 19:55:50,552 [WARNING]  * Debugger is active!
+2025-08-04 19:55:50,555 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:55:54,099 [INFO] 127.0.0.1 - - [04/Aug/2025 19:55:54] "GET / HTTP/1.1" 200 -
+2025-08-04 19:55:55,960 [INFO] 127.0.0.1 - - [04/Aug/2025 19:55:55] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:58:24,875 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 19:58:24,875 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 19:58:24,878 [INFO]  * Restarting with stat
+2025-08-04 19:58:25,324 [WARNING]  * Debugger is active!
+2025-08-04 19:58:25,328 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 19:58:27,353 [INFO] 127.0.0.1 - - [04/Aug/2025 19:58:27] "GET / HTTP/1.1" 200 -
+2025-08-04 19:58:29,168 [INFO] 127.0.0.1 - - [04/Aug/2025 19:58:29] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 19:58:33,882 [INFO] 127.0.0.1 - - [04/Aug/2025 19:58:33] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:58:38,511 [INFO] 127.0.0.1 - - [04/Aug/2025 19:58:38] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 19:58:38,519 [INFO] 127.0.0.1 - - [04/Aug/2025 19:58:38] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 19:58:40,776 [INFO] 127.0.0.1 - - [04/Aug/2025 19:58:40] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 20:02:47,478 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 20:02:47,478 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 20:02:47,481 [INFO]  * Restarting with stat
+2025-08-04 20:02:47,881 [WARNING]  * Debugger is active!
+2025-08-04 20:02:47,884 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 20:02:49,940 [INFO] 127.0.0.1 - - [04/Aug/2025 20:02:49] "GET / HTTP/1.1" 200 -
+2025-08-04 20:02:52,013 [INFO] 127.0.0.1 - - [04/Aug/2025 20:02:52] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 20:02:55,862 [INFO] 127.0.0.1 - - [04/Aug/2025 20:02:55] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:03:09,045 [INFO] 127.0.0.1 - - [04/Aug/2025 20:03:09] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 20:03:09,052 [INFO] 127.0.0.1 - - [04/Aug/2025 20:03:09] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:03:10,675 [INFO] 127.0.0.1 - - [04/Aug/2025 20:03:10] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 20:03:27,733 [INFO] 127.0.0.1 - - [04/Aug/2025 20:03:27] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:03:37,854 [INFO] 127.0.0.1 - - [04/Aug/2025 20:03:37] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 20:03:37,859 [INFO] 127.0.0.1 - - [04/Aug/2025 20:03:37] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:03:39,541 [INFO] 127.0.0.1 - - [04/Aug/2025 20:03:39] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 20:03:58,336 [INFO] 127.0.0.1 - - [04/Aug/2025 20:03:58] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:04:09,522 [INFO] 127.0.0.1 - - [04/Aug/2025 20:04:09] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 20:04:09,529 [INFO] 127.0.0.1 - - [04/Aug/2025 20:04:09] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:04:23,290 [INFO] 127.0.0.1 - - [04/Aug/2025 20:04:23] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 20:04:23,295 [INFO] 127.0.0.1 - - [04/Aug/2025 20:04:23] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:04:25,285 [INFO] 127.0.0.1 - - [04/Aug/2025 20:04:25] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 20:04:29,483 [INFO] 127.0.0.1 - - [04/Aug/2025 20:04:29] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:06:28,547 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 20:06:28,548 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 20:06:28,549 [INFO]  * Restarting with stat
+2025-08-04 20:06:28,914 [WARNING]  * Debugger is active!
+2025-08-04 20:06:28,917 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 20:06:31,998 [INFO] 127.0.0.1 - - [04/Aug/2025 20:06:31] "GET / HTTP/1.1" 200 -
+2025-08-04 20:06:34,397 [INFO] 127.0.0.1 - - [04/Aug/2025 20:06:34] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:06:43,190 [INFO] 127.0.0.1 - - [04/Aug/2025 20:06:43] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 20:06:43,194 [INFO] 127.0.0.1 - - [04/Aug/2025 20:06:43] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:06:53,250 [INFO] 127.0.0.1 - - [04/Aug/2025 20:06:53] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 20:06:53,254 [INFO] 127.0.0.1 - - [04/Aug/2025 20:06:53] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:07:40,876 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 20:07:40,876 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 20:07:40,878 [INFO]  * Restarting with stat
+2025-08-04 20:07:41,278 [WARNING]  * Debugger is active!
+2025-08-04 20:07:41,281 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 20:07:43,442 [INFO] 127.0.0.1 - - [04/Aug/2025 20:07:43] "GET / HTTP/1.1" 200 -
+2025-08-04 20:07:44,786 [INFO] 127.0.0.1 - - [04/Aug/2025 20:07:44] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:07:53,534 [INFO] 127.0.0.1 - - [04/Aug/2025 20:07:53] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 20:07:53,540 [INFO] 127.0.0.1 - - [04/Aug/2025 20:07:53] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:07:55,418 [INFO] 127.0.0.1 - - [04/Aug/2025 20:07:55] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-04 20:07:57,423 [INFO] 127.0.0.1 - - [04/Aug/2025 20:07:57] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:09:49,574 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-04 20:09:49,575 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-04 20:09:49,577 [INFO]  * Restarting with stat
+2025-08-04 20:09:49,955 [WARNING]  * Debugger is active!
+2025-08-04 20:09:49,958 [INFO]  * Debugger PIN: 126-074-466
+2025-08-04 20:09:55,119 [INFO] 127.0.0.1 - - [04/Aug/2025 20:09:55] "GET / HTTP/1.1" 200 -
+2025-08-04 20:09:56,912 [INFO] 127.0.0.1 - - [04/Aug/2025 20:09:56] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:10:08,909 [INFO] 127.0.0.1 - - [04/Aug/2025 20:10:08] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-04 20:10:08,918 [INFO] 127.0.0.1 - - [04/Aug/2025 20:10:08] "GET /attendance HTTP/1.1" 200 -
+2025-08-04 20:10:15,541 [INFO] 127.0.0.1 - - [04/Aug/2025 20:10:15] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:25:37,668 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-05 17:25:37,669 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 17:25:37,671 [INFO]  * Restarting with stat
+2025-08-05 17:25:38,156 [WARNING]  * Debugger is active!
+2025-08-05 17:25:38,161 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 17:25:40,776 [INFO] 127.0.0.1 - - [05/Aug/2025 17:25:40] "GET / HTTP/1.1" 200 -
+2025-08-05 17:25:40,932 [INFO] 127.0.0.1 - - [05/Aug/2025 17:25:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 17:25:43,712 [INFO] 127.0.0.1 - - [05/Aug/2025 17:25:43] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:25:48,720 [INFO] 127.0.0.1 - - [05/Aug/2025 17:25:48] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:25:57,868 [INFO] 127.0.0.1 - - [05/Aug/2025 17:25:57] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-05 17:25:57,872 [INFO] 127.0.0.1 - - [05/Aug/2025 17:25:57] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:26:04,635 [INFO] 127.0.0.1 - - [05/Aug/2025 17:26:04] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2025-08-05 17:26:09,732 [INFO] 127.0.0.1 - - [05/Aug/2025 17:26:09] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:26:24,629 [INFO] 127.0.0.1 - - [05/Aug/2025 17:26:24] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:27:33,320 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-05 17:27:33,320 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 17:27:33,322 [INFO]  * Restarting with stat
+2025-08-05 17:27:33,730 [WARNING]  * Debugger is active!
+2025-08-05 17:27:33,733 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 17:27:57,718 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-05 17:27:57,718 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 17:27:57,720 [INFO]  * Restarting with stat
+2025-08-05 17:27:58,132 [WARNING]  * Debugger is active!
+2025-08-05 17:27:58,137 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 17:27:59,952 [INFO] 127.0.0.1 - - [05/Aug/2025 17:27:59] "GET / HTTP/1.1" 200 -
+2025-08-05 17:28:01,810 [INFO] 127.0.0.1 - - [05/Aug/2025 17:28:01] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:28:14,854 [ERROR] Error saving attendance: Expecting value: line 1 column 1 (char 0)
+2025-08-05 17:28:14,855 [INFO] 127.0.0.1 - - [05/Aug/2025 17:28:14] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-05 17:28:14,861 [INFO] 127.0.0.1 - - [05/Aug/2025 17:28:14] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:28:17,495 [ERROR] Error reading attendance record: Expecting value: line 1 column 1 (char 0)
+2025-08-05 17:28:17,500 [INFO] 127.0.0.1 - - [05/Aug/2025 17:28:17] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:28:21,216 [INFO] 127.0.0.1 - - [05/Aug/2025 17:28:21] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:28:22,112 [ERROR] Error reading attendance record: Expecting value: line 1 column 1 (char 0)
+2025-08-05 17:28:22,113 [INFO] 127.0.0.1 - - [05/Aug/2025 17:28:22] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:29:18,870 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-05 17:29:18,871 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 17:29:18,873 [INFO]  * Restarting with stat
+2025-08-05 17:29:19,283 [WARNING]  * Debugger is active!
+2025-08-05 17:29:19,286 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 17:29:49,785 [INFO] 127.0.0.1 - - [05/Aug/2025 17:29:49] "GET / HTTP/1.1" 200 -
+2025-08-05 17:29:49,906 [INFO] 127.0.0.1 - - [05/Aug/2025 17:29:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 17:29:51,672 [INFO] 127.0.0.1 - - [05/Aug/2025 17:29:51] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:29:53,047 [INFO] 127.0.0.1 - - [05/Aug/2025 17:29:53] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:29:59,244 [INFO] 127.0.0.1 - - [05/Aug/2025 17:29:59] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-05 17:29:59,250 [INFO] 127.0.0.1 - - [05/Aug/2025 17:29:59] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:30:01,735 [INFO] 127.0.0.1 - - [05/Aug/2025 17:30:01] "GET /registration HTTP/1.1" 200 -
+2025-08-05 17:30:08,589 [INFO] 127.0.0.1 - - [05/Aug/2025 17:30:08] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-05 17:30:08,601 [INFO] 127.0.0.1 - - [05/Aug/2025 17:30:08] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:30:12,810 [INFO] 127.0.0.1 - - [05/Aug/2025 17:30:12] "GET /registration HTTP/1.1" 200 -
+2025-08-05 17:30:28,835 [INFO] 127.0.0.1 - - [05/Aug/2025 17:30:28] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-05 17:30:28,856 [INFO] 127.0.0.1 - - [05/Aug/2025 17:30:28] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:30:31,153 [INFO] 127.0.0.1 - - [05/Aug/2025 17:30:31] "GET /registration HTTP/1.1" 200 -
+2025-08-05 17:30:48,182 [INFO] 127.0.0.1 - - [05/Aug/2025 17:30:48] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-05 17:30:48,201 [INFO] 127.0.0.1 - - [05/Aug/2025 17:30:48] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:30:50,514 [INFO] 127.0.0.1 - - [05/Aug/2025 17:30:50] "GET /registration HTTP/1.1" 200 -
+2025-08-05 17:31:01,935 [INFO] 127.0.0.1 - - [05/Aug/2025 17:31:01] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-05 17:31:01,959 [INFO] 127.0.0.1 - - [05/Aug/2025 17:31:01] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:31:14,468 [INFO] 127.0.0.1 - - [05/Aug/2025 17:31:14] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-05 17:31:14,476 [INFO] 127.0.0.1 - - [05/Aug/2025 17:31:14] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:31:17,723 [INFO] 127.0.0.1 - - [05/Aug/2025 17:31:17] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:32:54,444 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-05 17:32:54,445 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 17:32:54,446 [INFO]  * Restarting with stat
+2025-08-05 17:32:54,830 [WARNING]  * Debugger is active!
+2025-08-05 17:32:54,833 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 17:32:57,529 [INFO] 127.0.0.1 - - [05/Aug/2025 17:32:57] "GET / HTTP/1.1" 200 -
+2025-08-05 17:32:57,749 [INFO] 127.0.0.1 - - [05/Aug/2025 17:32:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 17:32:59,971 [INFO] 127.0.0.1 - - [05/Aug/2025 17:32:59] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:33:05,336 [INFO] 127.0.0.1 - - [05/Aug/2025 17:33:05] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:34:10,777 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-05 17:34:10,778 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 17:34:10,779 [INFO]  * Restarting with stat
+2025-08-05 17:34:11,166 [WARNING]  * Debugger is active!
+2025-08-05 17:34:11,169 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 17:34:12,860 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:12] "GET / HTTP/1.1" 200 -
+2025-08-05 17:34:15,008 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:15] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:34:15,979 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:15] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:34:20,768 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:20] "GET /registration HTTP/1.1" 200 -
+2025-08-05 17:34:27,820 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:27] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-05 17:34:27,837 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:27] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:34:30,325 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:30] "GET /registration HTTP/1.1" 200 -
+2025-08-05 17:34:38,548 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:38] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-05 17:34:38,571 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:38] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:34:40,644 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:40] "GET /registration HTTP/1.1" 200 -
+2025-08-05 17:34:50,719 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:50] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-05 17:34:50,745 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:50] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:34:52,864 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:52] "GET /registration HTTP/1.1" 200 -
+2025-08-05 17:34:55,296 [INFO] 127.0.0.1 - - [05/Aug/2025 17:34:55] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:35:02,085 [INFO] 127.0.0.1 - - [05/Aug/2025 17:35:02] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-05 17:35:02,093 [INFO] 127.0.0.1 - - [05/Aug/2025 17:35:02] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:35:04,854 [INFO] 127.0.0.1 - - [05/Aug/2025 17:35:04] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:35:08,510 [INFO] 127.0.0.1 - - [05/Aug/2025 17:35:08] "GET /registration HTTP/1.1" 200 -
+2025-08-05 17:35:17,611 [INFO] 127.0.0.1 - - [05/Aug/2025 17:35:17] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-05 17:35:17,629 [INFO] 127.0.0.1 - - [05/Aug/2025 17:35:17] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:35:34,016 [INFO] 127.0.0.1 - - [05/Aug/2025 17:35:34] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-05 17:35:34,024 [INFO] 127.0.0.1 - - [05/Aug/2025 17:35:34] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:35:37,069 [INFO] 127.0.0.1 - - [05/Aug/2025 17:35:37] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:36:37,751 [INFO] 127.0.0.1 - - [05/Aug/2025 17:36:37] "GET / HTTP/1.1" 200 -
+2025-08-05 17:36:37,977 [INFO] 127.0.0.1 - - [05/Aug/2025 17:36:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 17:36:40,847 [INFO] 127.0.0.1 - - [05/Aug/2025 17:36:40] "[33mGET /dashboard HTTP/1.1[0m" 404 -
+2025-08-05 17:36:51,998 [INFO]  * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+2025-08-05 17:36:52,038 [INFO]  * Restarting with stat
+2025-08-05 17:36:52,417 [WARNING]  * Debugger is active!
+2025-08-05 17:36:52,421 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 17:36:58,522 [INFO]  * Detected change in 'c:\\Users\\DELL\\Desktop\\Attendance\\app.py', reloading
+2025-08-05 17:36:58,564 [INFO]  * Restarting with stat
+2025-08-05 17:37:58,426 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-05 17:37:58,427 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 17:37:58,429 [INFO]  * Restarting with stat
+2025-08-05 17:37:58,866 [WARNING]  * Debugger is active!
+2025-08-05 17:37:58,869 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 17:38:01,978 [INFO] 127.0.0.1 - - [05/Aug/2025 17:38:01] "GET / HTTP/1.1" 200 -
+2025-08-05 17:38:02,138 [INFO] 127.0.0.1 - - [05/Aug/2025 17:38:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 17:38:03,519 [INFO] 127.0.0.1 - - [05/Aug/2025 17:38:03] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 -
+2025-08-05 17:38:03,635 [INFO] 127.0.0.1 - - [05/Aug/2025 17:38:03] "GET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-08-05 17:38:03,640 [INFO] 127.0.0.1 - - [05/Aug/2025 17:38:03] "GET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-08-05 17:38:03,694 [INFO] 127.0.0.1 - - [05/Aug/2025 17:38:03] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=uIFWYABCq1qWvLsgXLz2 HTTP/1.1" 200 -
+2025-08-05 17:38:03,719 [INFO] 127.0.0.1 - - [05/Aug/2025 17:38:03] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-08-05 17:39:18,510 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-05 17:39:18,511 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 17:39:18,512 [INFO]  * Restarting with stat
+2025-08-05 17:39:18,891 [WARNING]  * Debugger is active!
+2025-08-05 17:39:18,894 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 17:39:21,391 [INFO] 127.0.0.1 - - [05/Aug/2025 17:39:21] "GET / HTTP/1.1" 200 -
+2025-08-05 17:39:22,915 [INFO] 127.0.0.1 - - [05/Aug/2025 17:39:22] "GET /dashboard HTTP/1.1" 200 -
+2025-08-05 17:39:25,155 [INFO] 127.0.0.1 - - [05/Aug/2025 17:39:25] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:39:32,453 [INFO] 127.0.0.1 - - [05/Aug/2025 17:39:32] "[33mGET /attendance-records HTTP/1.1[0m" 404 -
+2025-08-05 17:42:12,149 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-05 17:42:12,150 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 17:42:12,151 [INFO]  * Restarting with stat
+2025-08-05 17:42:12,553 [WARNING]  * Debugger is active!
+2025-08-05 17:42:12,557 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 17:42:14,954 [INFO] 127.0.0.1 - - [05/Aug/2025 17:42:14] "GET / HTTP/1.1" 200 -
+2025-08-05 17:42:18,225 [INFO] 127.0.0.1 - - [05/Aug/2025 17:42:18] "GET /dashboard HTTP/1.1" 200 -
+2025-08-05 17:46:42,085 [INFO] 127.0.0.1 - - [05/Aug/2025 17:46:42] "GET / HTTP/1.1" 200 -
+2025-08-05 17:46:43,621 [INFO] 127.0.0.1 - - [05/Aug/2025 17:46:43] "GET /dashboard HTTP/1.1" 200 -
+2025-08-05 17:47:12,542 [INFO] 127.0.0.1 - - [05/Aug/2025 17:47:12] "GET /dashboard HTTP/1.1" 200 -
+2025-08-05 17:47:21,502 [INFO] 127.0.0.1 - - [05/Aug/2025 17:47:21] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:47:54,800 [INFO] 127.0.0.1 - - [05/Aug/2025 17:47:54] "GET /registration HTTP/1.1" 200 -
+2025-08-05 17:47:55,844 [INFO] 127.0.0.1 - - [05/Aug/2025 17:47:55] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-05 17:47:56,731 [INFO] 127.0.0.1 - - [05/Aug/2025 17:47:56] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 17:47:57,701 [INFO] 127.0.0.1 - - [05/Aug/2025 17:47:57] "GET /dashboard HTTP/1.1" 200 -
+2025-08-05 17:48:01,553 [INFO] 127.0.0.1 - - [05/Aug/2025 17:48:01] "GET / HTTP/1.1" 200 -
+2025-08-05 17:59:47,357 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-05 17:59:47,358 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 17:59:47,360 [INFO]  * Restarting with stat
+2025-08-05 17:59:47,782 [WARNING]  * Debugger is active!
+2025-08-05 17:59:47,786 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 17:59:51,705 [INFO] 127.0.0.1 - - [05/Aug/2025 17:59:51] "GET / HTTP/1.1" 200 -
+2025-08-05 17:59:51,938 [INFO] 127.0.0.1 - - [05/Aug/2025 17:59:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-05 17:59:55,196 [INFO] 127.0.0.1 - - [05/Aug/2025 17:59:55] "GET /registration HTTP/1.1" 200 -
+2025-08-05 18:00:07,733 [INFO] 127.0.0.1 - - [05/Aug/2025 18:00:07] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-05 18:00:07,753 [INFO] 127.0.0.1 - - [05/Aug/2025 18:00:07] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 18:00:38,553 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-05 18:00:38,553 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-05 18:00:38,556 [INFO]  * Restarting with stat
+2025-08-05 18:00:38,967 [WARNING]  * Debugger is active!
+2025-08-05 18:00:38,970 [INFO]  * Debugger PIN: 126-074-466
+2025-08-05 18:00:42,952 [INFO] 127.0.0.1 - - [05/Aug/2025 18:00:42] "GET / HTTP/1.1" 200 -
+2025-08-05 18:00:44,991 [INFO] 127.0.0.1 - - [05/Aug/2025 18:00:44] "GET /registration HTTP/1.1" 200 -
+2025-08-05 18:00:54,420 [INFO] 127.0.0.1 - - [05/Aug/2025 18:00:54] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-05 18:00:54,428 [INFO] 127.0.0.1 - - [05/Aug/2025 18:00:54] "GET /registration HTTP/1.1" 200 -
+2025-08-05 18:00:57,387 [INFO] 127.0.0.1 - - [05/Aug/2025 18:00:57] "GET /attendance HTTP/1.1" 200 -
+2025-08-05 18:01:11,240 [INFO] 127.0.0.1 - - [05/Aug/2025 18:01:11] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-05 18:01:11,247 [INFO] 127.0.0.1 - - [05/Aug/2025 18:01:11] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:08:04,309 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-12 20:08:04,310 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-12 20:08:04,313 [INFO]  * Restarting with stat
+2025-08-12 20:08:04,655 [WARNING]  * Debugger is active!
+2025-08-12 20:08:04,660 [INFO]  * Debugger PIN: 708-783-469
+2025-08-12 20:08:09,225 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:09] "GET / HTTP/1.1" 200 -
+2025-08-12 20:08:09,410 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-12 20:08:17,257 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:17] "GET /dashboard HTTP/1.1" 200 -
+2025-08-12 20:08:21,270 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:21] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:08:26,523 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:26] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-12 20:08:26,530 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:26] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:08:29,083 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:29] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-12 20:08:33,231 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:33] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:08:37,201 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:37] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-12 20:08:37,212 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:37] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:08:39,349 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:39] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:08:41,162 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:41] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-12 20:08:45,042 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:45] "GET /dashboard HTTP/1.1" 200 -
+2025-08-12 20:08:47,084 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:47] "GET /registration HTTP/1.1" 200 -
+2025-08-12 20:08:48,868 [INFO] 127.0.0.1 - - [12/Aug/2025 20:08:48] "GET /dashboard HTTP/1.1" 200 -
+2025-08-12 20:09:48,131 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-12 20:09:48,131 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-12 20:09:48,134 [INFO]  * Restarting with stat
+2025-08-12 20:09:48,512 [WARNING]  * Debugger is active!
+2025-08-12 20:09:48,515 [INFO]  * Debugger PIN: 708-783-469
+2025-08-12 20:09:53,157 [INFO] 127.0.0.1 - - [12/Aug/2025 20:09:53] "GET / HTTP/1.1" 200 -
+2025-08-12 20:09:53,349 [INFO] 127.0.0.1 - - [12/Aug/2025 20:09:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-12 20:09:55,093 [INFO] 127.0.0.1 - - [12/Aug/2025 20:09:55] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:09:57,270 [INFO] 127.0.0.1 - - [12/Aug/2025 20:09:57] "GET /registration HTTP/1.1" 200 -
+2025-08-12 20:10:08,445 [INFO] 127.0.0.1 - - [12/Aug/2025 20:10:08] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-12 20:10:08,453 [INFO] 127.0.0.1 - - [12/Aug/2025 20:10:08] "GET /registration HTTP/1.1" 200 -
+2025-08-12 20:10:21,441 [INFO] 127.0.0.1 - - [12/Aug/2025 20:10:21] "[32mPOST /registration HTTP/1.1[0m" 302 -
+2025-08-12 20:10:21,449 [INFO] 127.0.0.1 - - [12/Aug/2025 20:10:21] "GET /registration HTTP/1.1" 200 -
+2025-08-12 20:10:27,489 [INFO] 127.0.0.1 - - [12/Aug/2025 20:10:27] "GET /dashboard HTTP/1.1" 200 -
+2025-08-12 20:10:30,116 [INFO] 127.0.0.1 - - [12/Aug/2025 20:10:30] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:10:42,748 [INFO] 127.0.0.1 - - [12/Aug/2025 20:10:42] "[32mPOST /attendance HTTP/1.1[0m" 302 -
+2025-08-12 20:10:42,757 [INFO] 127.0.0.1 - - [12/Aug/2025 20:10:42] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:10:46,181 [INFO] 127.0.0.1 - - [12/Aug/2025 20:10:46] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-12 20:10:53,745 [INFO] 127.0.0.1 - - [12/Aug/2025 20:10:53] "GET /dashboard HTTP/1.1" 200 -
+2025-08-12 20:10:55,566 [INFO] 127.0.0.1 - - [12/Aug/2025 20:10:55] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:11:09,104 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-12 20:11:09,104 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-12 20:11:09,105 [INFO]  * Restarting with stat
+2025-08-12 20:11:09,460 [WARNING]  * Debugger is active!
+2025-08-12 20:11:09,463 [INFO]  * Debugger PIN: 708-783-469
+2025-08-12 20:11:12,536 [INFO] 127.0.0.1 - - [12/Aug/2025 20:11:12] "GET / HTTP/1.1" 200 -
+2025-08-12 20:11:12,728 [INFO] 127.0.0.1 - - [12/Aug/2025 20:11:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-12 20:11:14,389 [INFO] 127.0.0.1 - - [12/Aug/2025 20:11:14] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:11:16,200 [INFO] 127.0.0.1 - - [12/Aug/2025 20:11:16] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-12 20:11:17,986 [INFO] 127.0.0.1 - - [12/Aug/2025 20:11:17] "GET /registration HTTP/1.1" 200 -
+2025-08-12 20:12:48,869 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-12 20:12:48,869 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-12 20:12:48,871 [INFO]  * Restarting with stat
+2025-08-12 20:12:49,236 [WARNING]  * Debugger is active!
+2025-08-12 20:12:49,238 [INFO]  * Debugger PIN: 708-783-469
+2025-08-12 20:12:51,218 [INFO] 127.0.0.1 - - [12/Aug/2025 20:12:51] "GET / HTTP/1.1" 200 -
+2025-08-12 20:12:51,459 [INFO] 127.0.0.1 - - [12/Aug/2025 20:12:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-12 20:12:53,059 [INFO] 127.0.0.1 - - [12/Aug/2025 20:12:53] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:14:33,329 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-12 20:14:33,330 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-12 20:14:33,333 [INFO]  * Restarting with stat
+2025-08-12 20:14:33,763 [WARNING]  * Debugger is active!
+2025-08-12 20:14:33,766 [INFO]  * Debugger PIN: 708-783-469
+2025-08-12 20:14:38,963 [INFO] 127.0.0.1 - - [12/Aug/2025 20:14:38] "GET / HTTP/1.1" 200 -
+2025-08-12 20:14:41,049 [INFO] 127.0.0.1 - - [12/Aug/2025 20:14:41] "GET /attendance_record HTTP/1.1" 200 -
+2025-08-12 20:14:43,550 [INFO] 127.0.0.1 - - [12/Aug/2025 20:14:43] "GET /attendance HTTP/1.1" 200 -
+2025-08-12 20:14:46,415 [INFO] 127.0.0.1 - - [12/Aug/2025 20:14:46] "GET /registration HTTP/1.1" 200 -
+2025-08-12 20:15:36,967 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-08-12 20:15:36,967 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-12 20:15:36,970 [INFO]  * Restarting with stat
+2025-08-12 20:15:37,343 [WARNING]  * Debugger is active!
+2025-08-12 20:15:37,346 [INFO]  * Debugger PIN: 708-783-469
+2025-08-12 20:15:38,896 [INFO] 127.0.0.1 - - [12/Aug/2025 20:15:38] "GET / HTTP/1.1" 200 -
+2025-08-12 20:15:40,853 [INFO] 127.0.0.1 - - [12/Aug/2025 20:15:40] "GET /registration HTTP/1.1" 200 -
